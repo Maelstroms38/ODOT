@@ -241,24 +241,3 @@ checking for vsnprintf... yes
 checking for sscanf... yes
 Disabling code coverage for GCC
 configure: creating ./config.status
-config.status: creating libxml2.spec
-config.status: creating Makefile
-config.status: creating include/Makefile
-config.status: creating include/libxml/Makefile
-config.status: creating doc/Makefile
-config.status: creating doc/examples/Makefile
-config.status: creating doc/devhelp/Makefile
-config.status: creating example/Makefile
-config.status: creating python/Makefile
-config.status: creating python/tests/Makefile
-config.status: creating xstc/Makefile
-config.status: creating include/libxml/xmlversion.h
-config.status: creating xml2-config
-config.status: creating libxml-2.0.pc
-config.status: creating libxml-2.0-uninstalled.pc
-config.status: creating python/setup.py
-config.status: creating config.h
-config.status: executing depfiles commands
-config.status: executing libtool commands
-rm: libtoolT: No such file or directory
-Done configuring

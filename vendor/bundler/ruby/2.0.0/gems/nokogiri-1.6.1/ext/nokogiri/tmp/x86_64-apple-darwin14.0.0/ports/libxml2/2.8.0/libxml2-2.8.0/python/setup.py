@@ -8,7 +8,7 @@ from distutils.core import setup, Extension
 # Below ROOT, we expect to find include, include/libxml2, lib and bin.
 # On *nix, it is not needed (but should not harm), 
 # on Windows, it is set by configure.js.
-ROOT = r'/Users/michaelstromer/Documents/Codes/Urlinq/railsapi/projects/odot/vendor/bundler/ruby/2.0.0/gems/nokogiri-1.6.1/ports/x86_64-apple-darwin14.0.0/libxml2/2.8.0' 
+ROOT = r'/usr' 
 
 # Thread-enabled libxml2
 with_threads = 1

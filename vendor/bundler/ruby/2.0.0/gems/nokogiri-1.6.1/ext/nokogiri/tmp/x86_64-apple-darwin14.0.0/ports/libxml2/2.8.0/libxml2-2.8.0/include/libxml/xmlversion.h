@@ -50,7 +50,7 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * extra version information, used to show a CVS compilation
  */
-#define LIBXML_VERSION_EXTRA ""
+#define LIBXML_VERSION_EXTRA "-GITv2.8.0-rc2-1-g22030ef"
 
 /**
  * LIBXML_TEST_VERSION:
